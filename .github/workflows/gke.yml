@@ -8,8 +8,8 @@ env:
   PROJECT_ID: ${{ secrets.GKE_PROJECT }}    # TODO: update to cluster name
   GKE_CLUSTER: ${{ secrets.GKE_CLUSTER }}    # TODO: update to cluster name
   GKE_ZONE: ${{ secrets.GKE_ZONE }}   # TODO: update to cluster zone
-  DEPLOYMENT_NAME: springboot-ci-cd # TODO: update to deployment name
-  IMAGE: springboot-ci-cd-demo
+  DEPLOYMENT_NAME: kubernetes-pract # TODO: update to deployment name
+  IMAGE: kubernetes-pract-image
 
 jobs:
   setup-build-publish-deploy:
