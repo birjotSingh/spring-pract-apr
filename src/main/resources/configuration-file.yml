@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: k8-demo-app
+  labels:
+    app: k8-app
+spec:
+  containers:
+    -
+      image: "reactivestaxtech/test-sbapp:latest"
+      name: spring-k8-demo-app
+      imagePullPolicy: Always
+      ports:
+        -
+          containerPort: 8080
