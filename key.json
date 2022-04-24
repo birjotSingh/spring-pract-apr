@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "steel-minutia-347518",
+  "private_key_id": "2ccb3f966673c9b65f6ad2f76ac0d32f0f780b7d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCTjSYAgaO3PoyM\niwpI/mp76FoHWJFPUW7E8yxSbtU+TZaId6b2EWK1ZuoKpordV0jZPxWWfLnyVibW\nVBFg7yL/iGtITHxtOZ63kbUAldquBY01x2Th1XacKcUHc+A1tJja5HKzucbX8aFz\n2w8/0rEyVA4HMEGBCGv3zSUIOjDgxOQfDH3srnUMbXcs+1XVQODEVeZLXtH6y2tH\nIFjIi1CZkhyuehIXTRalB1Q7xGlm21XPtaT0dLCvWzspTQCypuzBmDdeujZLIV4U\n3jaT6eZWeonBxjnoS3Hft0xfazOBfk9s1xNjfScXMwNDep4sLzO0CIPeD+Ywz3y9\n3l3RUdAlAgMBAAECggEAG5Le1Wzkoqesfc40/ZeX4DB3dJR7UUKTS/hyobQHIzW+\nKiIMIEN2+hXxqkxduofne/vDRcRovm4Vo2uB9OazmGPOwqvSe9nu/HidBe87Ntag\nQTrSMjbhS8UthhtEPN0TTKKxAb+3tl64MI2xL5jo1tIo7fR5ZUrk3GHop/0x6arx\nFahTrK7Y+l3RUS/yjkugFyzOgp0D66X0RI2+DP6ZJWIpR5zAK3YNSFQuL+QkFMjc\nN6orBXSVRwqdau6wqvK9/DMz2k7DmDDZlPMFcTf8DCNcENdDCT/vamVl1ZxiWxTj\n0KaL/9q6ky69AiLP/aW/zL9xvGL2JIbK2ArWN0iBWQKBgQDIywxxmBGcfsBCw7vQ\nJA+oUUEx9na84oWRQfRrb28x8zZ8YjiTxOQ5Rr3Jz4tD6YLHJugnUa5JKhAxtHIz\nInrQYNy5BQLiW3I6kCaIEzXaoISLZcNwWle89ButH2Dt0IbDgsQUOogdshzsQlmk\nwsDlYx3/czjSf6rqn3gD47oxyQKBgQC8HqSOOCnoyPtPEoXRaCzuwD7DDH54lohg\nRxvZz0JLpKc07PnGmU6Jt+h9R1ltCnyxU271uWZjbn2V69nq8bYQhE4Gd+L8MBjJ\nFllvEZIWzA0+V+2S3iFCtjdKLRpc3NIiCU4/U/Wo97I33bKES4z9+2Xyn/h2i8vg\n2Mj0QqP5fQKBgQCFNV++BJq6bcRzBpOU1Dem/LD5yn6fdNATu+PBWp40Txv4jNjn\n/5lA/lNujUfg+AuQv5kIbMHpPASeVQ3mKpu7nmcQP+jX7r7rZzKI1+XEcvU73Xk5\nElZevruVsNmHK+4byqb2nJYszTsu6h26lpGOHKGMFQ6/Z38mREFEo1GlMQKBgCQZ\nPTqNTH1/E7p4s3UbqIOoIGMNYreBK2pOOunw+6fIUM23K7cQdCG5SMPBjUd/W64r\ndH9ytFMgQLkkKQ0MlQNWYCKdntEF6busrjzCAmadgW0VMmGcfoVuse1p+kUXmrst\nTfaZBesGnQxbXoZEeSnDtCx6xhL5gIYFE4rLvuuBAoGALU/1tQOaajvC8JpQcUkZ\nLYb0vPDa0XZharf4RuBU9tGSRe82+e17XB9J1x9NQgMFOPwbC2qCd8KCW287lDQh\n7yWfu2Dicmb5sePZ1nWx76IVaP3tgZyq2Qh3Z0+wsjtc7HPKDc0w2s0/jxyCVmS2\nS6faCHwyeW8SPX3Yk8HuIW0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "service-acc@steel-minutia-347518.iam.gserviceaccount.com",
+  "client_id": "109308687591700817672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service-acc%40steel-minutia-347518.iam.gserviceaccount.com"
+}
